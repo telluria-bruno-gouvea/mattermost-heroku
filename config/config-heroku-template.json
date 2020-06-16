@@ -38,7 +38,7 @@
         "EnableUserAccessTokens": false,
         "AllowCorsFrom": "*",
         "CorsExposedHeaders": "",
-        "CorsAllowCredentials": true,
+        "CorsAllowCredentials": false,
         "CorsDebug": false,
         "AllowCookiesForSubdomains": false,
         "SessionLengthWebInDays": ${SESSION_LENGTH__WEB},
