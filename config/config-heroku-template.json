@@ -250,7 +250,7 @@
         "UserApiEndpoint": ""
     },
     "GoogleSettings": {
-        "Enable": false,
+        "Enable": true,
         "Secret": "",
         "Id": "",
         "Scope": "profile email",
