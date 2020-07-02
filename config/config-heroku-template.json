@@ -35,7 +35,7 @@
         "AllowedUntrustedInternalConnections": "",
         "EnableMultifactorAuthentication": false,
         "EnforceMultifactorAuthentication": false,
-        "EnableUserAccessTokens": false,
+        "EnableUserAccessTokens": true,
         "AllowCorsFrom": "http://localhost:3000",
         "CorsExposedHeaders": "Access-Control-Allow-Origin",
         "CorsAllowCredentials": true,
